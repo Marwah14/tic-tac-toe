@@ -1,9 +1,10 @@
 # tic-tac-toe
 
-Definition of tic-tac-toe:
+# Definition:
+
 a game in which two players alternately put Xs and Os in compartments of a figure formed by two vertical lines crossing two horizontal lines and each tries to get a row of three Xs or three Os before the opponent does.
 
-Rules of the Game:
+# Rules of the Game:
 
 The game is to be played between two people (in this program between HUMAN and COMPUTER).
 One of the player chooses ‘O’ and the other ‘X’ to mark their respective cells.
