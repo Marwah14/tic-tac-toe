@@ -31,13 +31,13 @@ Also, I will use CSS Animations for my Kids.
  
 # Resources:
 
-_ https://teamtreehouse.com
-_ https://developer.mozilla.org
-_ https://www.w3schools.com
-_ Jon Duckett-javascript and Jquery  Interactive Front-End Web Development // Book
-_ HTML and CSS - Design and Build Websites - Jon Duckett - // Book
+* https://teamtreehouse.com
+* https://developer.mozilla.org
+* https://www.w3schools.com
+* Jon Duckett-javascript and Jquery  Interactive Front-End Web Development // Book
+* HTML and CSS - Design and Build Websites - Jon Duckett - // Book
 
 # Play the Game:
 
-    https://marwah14.github.io/tic-tac-toe/
+   [Click here]( https://marwah14.github.io/tic-tac-toe/)
     
