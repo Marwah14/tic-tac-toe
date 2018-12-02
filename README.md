@@ -13,3 +13,31 @@ One of the player chooses ‘O’ and the other ‘X’ to mark their respective
 The game starts with one of the players and the game ends when one of the players has one whole row/ column/ diagonal filled with his/her respective character (‘O’ or ‘X’).
 If no one wins, then the game is said to be No one wins.
 
+
+# Technologies Used :
+
+HTML / Css / (JQ)
+
+
+# Things that I will add:
+
+I will make it unbeatable by using the minimax algorithm,
+Also, I will use CSS Animations for my Kids.
+
+# Special Thanks:
+ To all my awesome instructors: Trevor , Ghadeer and Jackie.
+ 
+ 
+ 
+# Resources:
+
+https://teamtreehouse.com
+https://developer.mozilla.org
+https://www.w3schools.com
+Jon Duckett-javascript and Jquery  Interactive Front-End Web Development // Book
+HTML and CSS - Design and Build Websites - Jon Duckett - // Book
+
+# Play the Game:
+
+    https://marwah14.github.io/tic-tac-toe/
+    
