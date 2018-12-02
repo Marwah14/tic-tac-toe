@@ -1,6 +1,4 @@
 # tic-tac-toe
-<<<<<<< HEAD
-project 1
 
 =======
 
@@ -14,4 +12,4 @@ The game is to be played between two people.
 One of the player chooses ‘O’ and the other ‘X’ to mark their respective cells.
 The game starts with one of the players and the game ends when one of the players has one whole row/ column/ diagonal filled with his/her respective character (‘O’ or ‘X’).
 If no one wins, then the game is said to be No one wins.
->>>>>>> 7ab532a1f404f8474ce8a6e49ae706c609274f91
+
